@@ -1,0 +1,15 @@
+{
+  "name": "copydb",
+  "version": "1.0.0",
+  "main": "copyDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "mongodb": "^7.0.0"
+  }
+}
